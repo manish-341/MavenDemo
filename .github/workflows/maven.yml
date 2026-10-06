@@ -1,4 +1,4 @@
-Put this in maven.yml
+
 name: Maven Build
 
 on:
